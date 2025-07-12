@@ -41,7 +41,7 @@ export default function About() {
             About Me
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            I'm a passionate game developer with expertise in creating engaging, 
+            I&apos;m a passionate game developer with expertise in creating engaging,
             high-performance games using modern technologies and creative design principles.
           </p>
         </motion.div>
@@ -56,13 +56,13 @@ export default function About() {
           >
             <h3 className="text-2xl font-semibold text-white mb-6">My Journey</h3>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              With over 5 years of experience in game development, I've worked on various projects 
+              With over 5 years of experience in game development, I&apos;ve worked on various projects
               ranging from indie mobile games to AAA console titles. My passion lies in creating 
               immersive experiences that captivate players and push the boundaries of interactive entertainment.
             </p>
             <p className="text-gray-300 mb-6 leading-relaxed">
               I specialize in Unity and Unreal Engine development, with strong skills in C#, C++, 
-              and various game development frameworks. I'm always eager to learn new technologies 
+              and various game development frameworks. I&apos;m always eager to learn new technologies
               and explore innovative approaches to game design.
             </p>
             <div className="flex flex-wrap gap-2">

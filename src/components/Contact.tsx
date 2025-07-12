@@ -81,7 +81,7 @@ export default function Contact() {
         >
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">Get In Touch</h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Ready to collaborate on your next game project? Let's discuss how we can create 
+            Ready to collaborate on your next game project? Let&apos;s discuss how we can create
             something amazing together.
           </p>
         </motion.div>
@@ -236,9 +236,9 @@ export default function Contact() {
               <div className="p-6 bg-gradient-to-r from-purple-600/20 to-blue-600/20 rounded-lg border border-purple-500/30">
                 <h4 className="text-white font-semibold mb-2">Available for Projects</h4>
                 <p className="text-gray-300">
-                  I'm currently available for freelance projects and collaborations. 
+                  I&apos;m currently available for freelance projects and collaborations.
                   Whether you need a game developer, technical consultant, or creative partner, 
-                  I'd love to hear about your project.
+                  I&apos;d love to hear about your project.
                 </p>
               </div>
             </div>

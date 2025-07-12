@@ -142,7 +142,7 @@ export default function Skills() {
           <div className="bg-gray-900 rounded-xl p-8 max-w-4xl mx-auto">
             <h3 className="text-2xl font-bold text-white mb-4">Always Learning</h3>
             <p className="text-gray-300 mb-6">
-              The game development industry is constantly evolving, and I'm committed to staying 
+              The game development industry is constantly evolving, and I&apos;m committed to staying
               current with the latest technologies, tools, and best practices. Currently exploring 
               VR/AR development, AI integration in games, and advanced rendering techniques.
             </p>
